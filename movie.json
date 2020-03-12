@@ -1,22 +1,38 @@
 [
-	{
-		"movie_no" : 0,
-		"title" : "탐정",
-		"thumb_url" : "https://movie.naver.com/movie/bi/mi/photoViewPopup.nhn?movieCode=159892"
-	},
-	{
-		"movie_no" : 1,
-		"title" : "쥬라기월드:폴른킹덤",
-		"thumb_url" : "https://movie.naver.com/movie/bi/mi/photoViewPopup.nhn?movieCode=154285"
-	},
-	{
-		"movie_no" : 2,
-		"title" : "독전",
-		"thumb_url" : "https://movie.naver.com/movie/bi/mi/photoViewPopup.nhn?movieCode=158178"
-	},
-	{
-		"movie_no" : 3,
-		"title" : "미드나잇 선",
-		"thumb_url" : "https://movie.naver.com/movie/bi/mi/photoViewPopup.nhn?movieCode=143416"
-	}
+   {
+      "channelId" : 0,
+      "epgId" : 0,
+      "programId" : 0,
+      "programName" : "탐정",
+      "programTime" : 189477484,
+      "programAge" : 15,
+      "programThumbnailUrl" : "https://movie.naver.com/movie/bi/mi/photoViewPopup.nhn?movieCode=159892"
+   },
+   {
+      "channelId" : 0,
+      "epgId" : 0,
+      "programId" : 1,
+      "programName" : "쥬라기월드:폴른킹덤",
+      "programTime" : 189477484,
+      "programAge" : 12,
+      "programThumbnailUrl" : "https://movie.naver.com/movie/bi/mi/photoViewPopup.nhn?movieCode=154285"
+   },
+   {
+      "channelId" : 1,
+      "epgId" : 0,
+      "programId" : 7,
+      "programName" : "독전",
+      "programTime" : 189477484,
+      "programAge" : 15,
+      "programThumbnailUrl" : "https://movie.naver.com/movie/bi/mi/photoViewPopup.nhn?movieCode=158178"
+   },
+   {
+      "channelId" : 2,
+      "epgId" : 0,
+      "programId" : 5,
+      "programName" : "미드나잇 선",
+      "programTime" : 189477484,
+      "programAge" : 12,
+      "programThumbnailUrl" : "https://movie.naver.com/movie/bi/mi/photoViewPopup.nhn?movieCode=143416"
+   }
 ]
