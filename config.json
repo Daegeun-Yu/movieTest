@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Player0",
+    "engine_type" : "0X00000000",
+    "content": [
+        {
+        "name": "0",
+        "uri": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "drm_type": "WIDEVINE_NATIVE",
+        "drm_library": "voDRM_InsideSecure",
+        "drm_provision": "https://proxy.uat.widevine.com/proxy?provider=widevine_test",
+        "decoder_type": "0X00200004",
+        "position_type": "0X00000002"
+        }
+    ],
+    "options": {
+        "name": "0",
+        "setPreference": [
+            "0x00000013"
+        ],
+        "setPresentationDelay": 30000
+    }
+  },
+  {
+    "name": "Player1",
+    "engine_type" : "0X00000000",
+    "content": [
+        {
+        "name": "1",
+        "uri": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
+        "drm_type": "WIDEVINE",
+        "drm_library": "voDRM_InsideSecure",
+        "drm_provision": "https://proxy.uat.widevine.com/proxy?provider=widevine_test",
+        "decoder_type": "0X00200004",
+        "position_type": "0X00000002"
+        }
+    ],
+    "options": {
+        "name": "1",
+        "setPreference": [
+            "0x00000013"
+        ],
+       "setPresentationDelay": 30000
+    }
+  },
+  {
+    "name": "Player2",
+    "engine_type" : "0X00000000",
+    "content": [
+        {
+        "name": "2",
+        "uri": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+        "drm_type": "WIDEVINE",
+        "drm_library": "voDRM_InsideSecure",
+        "drm_provision": "https://proxy.uat.widevine.com/proxy?provider=widevine_test",
+        "decoder_type": "0X00200004",
+        "position_type": "0X00000002"
+        }
+    ],
+    "options": {
+        "name": "2",
+        "setPreference": [
+            "0x00000013"
+        ],
+        "setPresentationDelay": 30000
+    }
+  },
+  {
+    "name": "Player3",
+    "engine_type" : "0X00000000",
+    "content": [
+        {
+        "name": "3",
+        "uri": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+        "drm_type": "WIDEVINE",
+        "drm_library": "voDRM_InsideSecure",
+        "drm_provision": "https://proxy.uat.widevine.com/proxy?provider=widevine_test",
+        "decoder_type": "0X00200004",
+        "position_type": "0X00000002"
+        }
+    ],
+    "options": {
+        "name": "3",
+        "setPreference": [
+            "0x00000013"
+        ],
+        "setPresentationDelay": 30000
+    }
+  }
+]
