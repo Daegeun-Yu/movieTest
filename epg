@@ -7,8 +7,8 @@
         "programMethod": "update",
         "programEventId": 6684,
         "programPeriod": {
-          "startDate": "2020-09-07 15:45:00",
-          "endDate": "2020-09-07 17:30:00"
+          "startDate": "2020-09-17 9:45:00",
+          "endDate": "2020-09-17 11:30:00"
         },
         "programRating": 18,
         "programName": {
@@ -31,8 +31,8 @@
         "programMethod": "update",
         "programEventId": 6685,
         "programPeriod": {
-          "startDate": "2020-09-07 17:30:00",
-          "endDate": "2020-09-07 18:55:00"
+          "startDate": "2020-09-17 11:30:00",
+          "endDate": "2020-09-17 18:55:00"
         },
         "programRating": 18,
         "programName": {
@@ -55,8 +55,8 @@
         "programMethod": "update",
         "programEventId": 6686,
         "programPeriod": {
-          "startDate": "2020-09-07 18:55:00",
-          "endDate": "2020-09-07 21:00:00"
+          "startDate": "2020-09-17 18:55:00",
+          "endDate": "2020-09-17 21:00:00"
         },
         "programRating": 18,
         "programName": {
@@ -79,8 +79,8 @@
         "programMethod": "update",
         "programEventId": 6687,
         "programPeriod": {
-          "startDate": "2020-09-07 21:00:00",
-          "endDate": "2020-09-07 22:00:00"
+          "startDate": "2020-09-17 21:00:00",
+          "endDate": "2020-09-17 22:00:00"
         },
         "programRating": 18,
         "programName": {
@@ -103,8 +103,8 @@
         "programMethod": "update",
         "programEventId": 394,
         "programPeriod": {
-          "startDate": "2020-09-07 16:50:00",
-          "endDate": "2020-09-07 18:00:00"
+          "startDate": "2020-09-17 6:50:00",
+          "endDate": "2020-09-17 8:00:00"
         },
         "programRating": 18,
         "programName": {
@@ -127,8 +127,8 @@
         "programMethod": "update",
         "programEventId": 395,
         "programPeriod": {
-          "startDate": "2020-09-07 18:00:00",
-          "endDate": "2020-09-07 19:00:00"
+          "startDate": "2020-09-17 8:00:00",
+          "endDate": "2020-09-17 19:00:00"
         },
         "programRating": 18,
         "programName": {
@@ -151,8 +151,8 @@
         "programMethod": "update",
         "programEventId": 396,
         "programPeriod": {
-          "startDate": "2020-09-07 19:00:00",
-          "endDate": "2020-09-07 20:00:00"
+          "startDate": "2020-09-17 19:00:00",
+          "endDate": "2020-09-17 20:00:00"
         },
         "programRating": 18,
         "programName": {
@@ -175,8 +175,8 @@
         "programMethod": "update",
         "programEventId": 397,
         "programPeriod": {
-          "startDate": "2020-09-07 20:00:00",
-          "endDate": "2020-09-07 21:00:00"
+          "startDate": "2020-09-17 20:00:00",
+          "endDate": "2020-09-17 21:00:00"
         },
         "programRating": 18,
         "programName": {
@@ -199,8 +199,8 @@
         "programMethod": "update",
         "programEventId": 398,
         "programPeriod": {
-          "startDate": "2020-09-07 21:00:00",
-          "endDate": "2020-09-07 22:00:00"
+          "startDate": "2020-09-17 21:00:00",
+          "endDate": "2020-09-17 22:00:00"
         },
         "programRating": 18,
         "programName": {
@@ -217,78 +217,6 @@
           "actor": ""
         },
         "programServiceId": 2
-      },
-      {
-        "programId": "1000000001914583",
-        "programMethod": "update",
-        "programEventId": 345,
-        "programPeriod": {
-          "startDate": "2020-09-07 16:25:00",
-          "endDate": "2020-09-07 18:30:00"
-        },
-        "programRating": 0,
-        "programName": {
-          "programTitle": "เวิร์ลเทรดเซ็นเตอร์",
-          "programSynopsis": "เรื่องราวที่เกิดขึ้นจริงเกี่ยวกับภารกิจของทีมกู้ภัยหลังจากทีเกิดเหตุหายนะที่เวิร์ลเทรดเซ็นเตอร์ เมื่อวันที่ 11 กันยายน ปี 2001"
-        },
-        "programExtendDescription": {
-          "cpId": "",
-          "posterUrl": "",
-          "productId": "",
-          "vodAssetId": "",
-          "videoType": "HD",
-          "director": "",
-          "actor": ""
-        },
-        "programServiceId": 3
-      },
-      {
-        "programId": "1000000001914584",
-        "programMethod": "update",
-        "programEventId": 346,
-        "programPeriod": {
-          "startDate": "2020-09-07 18:30:00",
-          "endDate": "2020-09-07 19:55:00"
-        },
-        "programRating": 0,
-        "programName": {
-          "programTitle": "อั๊กลี่ดอลส์",
-          "programSynopsis": "Moxy ที่รักอิสระและเพื่อนๆ UglyDoll ของเธอเผชิญหน้ากับความหมายที่แตกต่างและค้นพบว่าคุณไม่จำเป็นต้องสมบูรณ์แบบเพื่อเป็นสิ่งที่วิเศษ"
-        },
-        "programExtendDescription": {
-          "cpId": "",
-          "posterUrl": "",
-          "productId": "",
-          "vodAssetId": "",
-          "videoType": "HD",
-          "director": "",
-          "actor": ""
-        },
-        "programServiceId": 3
-      },
-      {
-        "programId": "1000000001914585",
-        "programMethod": "update",
-        "programEventId": 347,
-        "programPeriod": {
-          "startDate": "2020-09-07 19:55:00",
-          "endDate": "2020-09-07 22:00:00"
-        },
-        "programRating": 0,
-        "programName": {
-          "programTitle": "ศึกมายากลหยุดโลก",
-          "programSynopsis": "การแสวงหาความสมบูรณ์แบบช่วยผลักดันนักมายากลสองคนสู่ความมีสติและมีคุณธรรม"
-        },
-        "programExtendDescription": {
-          "cpId": "",
-          "posterUrl": "",
-          "productId": "",
-          "vodAssetId": "",
-          "videoType": "HD",
-          "director": "",
-          "actor": ""
-        },
-        "programServiceId": 3
       },
       {
         "programId": "1000000001914680",
